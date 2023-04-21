@@ -30,5 +30,4 @@ print(claves)
 
 #obtener solo los valores
 valores = estudiantes.values()
-print(valores[0])
-
+print(valores)
