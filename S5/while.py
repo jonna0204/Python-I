@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #ciclo while
 #condicion siempre se evalua true hasta que cambie
 
@@ -22,7 +21,6 @@ while i <= 5:
         break
     print(f"imprimiendo el valor de i {i} y probando break")
     
-=======
 #ciclo while
 #condicion siempre se evalua true hasta que cambie
 
@@ -46,4 +44,3 @@ while i <= 5:
         break
     print(f"imprimiendo el valor de i {i} y probando break")
     
->>>>>>> 24131b26d6ba339f7cd531228e099a3b151032b8
