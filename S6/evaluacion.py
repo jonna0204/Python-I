@@ -1,4 +1,6 @@
 """
+*********FORMA MANUAL************
+
 primero = int(input("Ingresa el primero número: "))
 segundo = int(input("Ingresa el segundo número: "))
 tercero = int(input("Ingresa el tercer número: "))
