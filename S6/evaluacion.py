@@ -1,10 +1,8 @@
 """
 *********FORMA MANUAL************
-
 primero = int(input("Ingresa el primero número: "))
 segundo = int(input("Ingresa el segundo número: "))
 tercero = int(input("Ingresa el tercer número: "))
-
 if primero > segundo and segundo > tercero: 
     print(primero,segundo,tercero)
 elif primero > tercero and tercero > segundo: 
@@ -30,4 +28,3 @@ seteo_1 = set(seteo)
 
 ordenados = sorted(seteo_1,reverse=True)
 print(ordenados)
-    
